@@ -18,13 +18,14 @@
 3. Wait for the tests to complete
 
 ### Create Gradebook Item to Quercus
-![Gradebook](gradebook.png)
+![Gradebook](Gradebook.png)
 1. Navigate to `LTI Settings`
 2. Select `CREATE GRADEBOOK ITEM?`
 3. Click on `Create new gradebook items`
 4. Wait for the job to be done
 
 ### Sync grades to Quercus
+![Sync](SyncGrades.png)
 1. Navigate to `Grades` tab
 2. Make sure all assignment (and every part) are given a grade
 3. Click on `Sync grades with LMS`
